@@ -4,5 +4,6 @@
 
 ***Used technologies:***
 - HTML5
-- CSS3
+- SCSS/SASS
 - JavaScript (using Classes and Local Storage)
+- Webpack
